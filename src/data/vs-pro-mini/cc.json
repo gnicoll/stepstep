@@ -1,0 +1,146 @@
+[
+  {
+    "cc": 1,
+    "affects": "Modulation",
+    "range": 127
+  },
+  {
+    "cc": 24,
+    "affects": "Voice A Wave",
+    "range": 127
+  },
+  {
+    "cc": 25,
+    "affects": "Voice B Wave",
+    "range": 127
+  },
+  {
+    "cc": 26,
+    "affects": "Voice C Wave",
+    "range": 127
+  },
+  {
+    "cc": 27,
+    "affects": "Voice D Wave",
+    "range": 127
+  },
+  {
+    "cc": 28,
+    "affects": "LFO 2 Amount",
+    "range": 99
+  },
+  {
+    "cc": 70,
+    "affects": "LFO 1 Amount",
+    "range": 99
+  },
+  {
+    "cc": 71,
+    "affects": "Filter Resonance",
+    "range": 99
+  },
+  {
+    "cc": 72,
+    "affects": "LFO 1 Rate",
+    "range": 99
+  },
+  {
+    "cc": 73,
+    "affects": "LFO 2 Rate",
+    "range": 99
+  },
+  {
+    "cc": 74,
+    "affects": "Filter Cutoff",
+    "range": 99
+  },
+  {
+    "cc": 81,
+    "affects": "Amplitude Envelope Attack",
+    "range": 99
+  },
+  {
+    "cc": 82,
+    "affects": "Amplitude Envelope Decay",
+    "range": 99
+  },
+  {
+    "cc": 83,
+    "affects": "Amplitude Envelope Sustain",
+    "range": 99,
+
+    "cc": 84,
+    "affects": "Amplitude Envelope Release",
+    "range": 99
+  },
+  {
+    "cc": 85,
+    "affects": "Filter Envelope Attack",
+    "range": 99
+  },
+  {
+    "cc": 86,
+    "affects": "Filter Envelope Decay",
+    "range": 99
+  },
+  {
+    "cc": 87,
+    "affects": "Filter Envelope Sustain",
+    "range": 99
+  },
+  {
+    "cc": 88,
+    "affects": "Filter Envelope Release",
+    "range": 99
+  },
+  {
+    "cc": 91,
+    "affects": "Chorus Depth",
+    "range": 99
+  },
+  {
+    "cc": 92,
+    "affects": "Chorus Rate",
+    "range": 99
+  },
+  {
+    "cc": 111,
+    "affects": "Voice A Fine Tuning",
+    "range": 99
+  },
+  {
+    "cc": 112,
+    "affects": "Voice B Fine Tuning",
+    "range": 99
+  },
+  {
+    "cc": 113,
+    "affects": "Voice C Fine Tuning",
+    "range": 99
+  },
+  {
+    "cc": 114,
+    "affects": "Voice D Fine Tuning",
+    "range": 99
+  },
+  {
+    "cc": 115,
+    "affects": "Voice A Coarse Tuning",
+    "range": 99
+  },
+  {
+    "cc": 116,
+    "affects": "Voice B Coarse Tuning",
+    "range": 99
+  },
+  {
+    "cc": 117,
+    "affects": "Voice C Coarse Tuning",
+    "range": 99
+  },
+  {
+    "cc": 118,
+    "affects": "Voice C Coarse Tuning",
+    "range": 99
+  }
+]

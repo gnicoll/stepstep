@@ -1,0 +1,7 @@
+.section {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0;
+    background-color: #333;
+    height: 100%;
+}

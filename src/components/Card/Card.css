@@ -1,0 +1,23 @@
+.card {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0;
+    border-radius: 1rem;
+    background-color: #fff;
+    color: #333;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+    padding: 1rem;
+}
+
+.card_title {
+    font-weight: 700;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
+.card_description {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    text-align: left;
+}
